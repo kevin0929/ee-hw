@@ -1,4 +1,4 @@
-# ee-hw-cralwer
+# ee-hw
 
 這是方便自動計算 NCHU-OJ 每次作業的平均分數，並輸出 CSV 檔。
 
